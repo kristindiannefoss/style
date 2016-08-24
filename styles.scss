@@ -1,11 +1,53 @@
 #fire-1 {
   font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  font-size: 60px;
+  margin: 10px;
+  margin-top: 100px;
 }
 
 #fire-2 {
   font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 60px;
+  margin: 10px;
+}
+
+#fire-3 {
+  font-family: 'Lato', sans-serif;
+  margin: 10px;
+  font-size: 49px;
+  font-weight: 100;
+  margin-top: 29px;
+  margin-bottom: -34px;
 }
 
 #fire-water {
   font-family: 'Unna', serif;
+  font-weight: bolder;
+  font-size: 200px;
+  margin: 10px;
+   color: blue;
+   -webkit-text-fill-color: transparent;
+   background: -webkit-linear-gradient(transparent, transparent),
+             url("./water.jpg") repeat;
+   background: -o-linear-gradient(transparent, transparent);
+   -webkit-background-clip: text;
+}
+
+.burning {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 115px;
+  margin: 10px;
+   color: red;
+   -webkit-text-fill-color: transparent;
+   background: -webkit-linear-gradient(transparent, transparent),
+             url("./fire.jpg") repeat;
+   background: -o-linear-gradient(transparent, transparent);
+   -webkit-background-clip: text;
+}
+
+#main {
+  text-align: center;
 }
