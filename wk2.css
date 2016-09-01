@@ -2,10 +2,31 @@
 font-family: 'Vollkorn', serif;*/
 
 #week2 {
-  padding-top: 300px;
-  padding-bottom: 300px;
-      width: 360px;
     margin: auto;
+    z-index: 1;
+}
+
+#wk2-words {
+    margin-left: 48px;
+    margin-bottom: 9px;
+    padding-top: 166px;
+    position: absolute;
+    color: #d2d8c7;
+}
+
+.steve-pic {
+  /*opacity: 0.6;*/
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+}
+
+.steve-pic-article {
+  z-index: -1;
+  background-image: url("Steve.png");
+  background-repeat: no-repeat;
+  opacity: 0.6;
+  width: 100%;
 }
 
 #steve1 {
