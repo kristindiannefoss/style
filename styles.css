@@ -40,7 +40,7 @@
   font-weight: 900;
   font-size: 115px;
   margin: 10px;
-   color: red;
+  color: red;
    -webkit-text-fill-color: transparent;
    background: -webkit-linear-gradient(transparent, transparent),
              url("./fire.jpg") repeat;
