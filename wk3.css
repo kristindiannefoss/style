@@ -1,0 +1,44 @@
+#week3 {
+  margin: auto;
+  margin-top: 1100px;
+  margin-bottom: 400px;
+  width: 300px;
+}
+
+#everything {
+
+}
+
+#first-mod {
+  color: black;
+}
+
+#mod-filler {
+  color: gray;
+}
+
+#moderation-1 {
+  font-family: 'Arvo', serif;
+}
+
+#including {
+  border-color: black;
+  border-style: solid;
+  height: 300px;
+}
+
+#moderation-2 {
+  font-family: 'Noto Sans', sans-serif;
+  text-overflow: clip;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  font-size: 11px;
+}
+
+#oscar {
+  font-family: 'Arvo', serif;
+}
+
+
+/*font-family: 'Noto Sans', sans-serif;
+font-family: 'Arvo', serif;*/

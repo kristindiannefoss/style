@@ -1,7 +1,0 @@
-{
-  "rules": {
-    "indent": ["error", 2, { "VariableDeclarator": 2 }],
-    "semi": ["error", "always"],
-    "quotes": ["error", "single"]
-  }
-}
